@@ -1,0 +1,90 @@
+{
+  "retrieved": "2026-10-06",
+  "source": "Sources specified per asset; government portals, institutional portals and documented public reproductions",
+  "assets": [
+    {
+      "name": "Telangana State Government emblem",
+      "file": "telangana-emblem.png",
+      "url": "https://www.telangana.gov.in/wp-content/uploads/2026/01/STATE-TELANGANA-LOGO.png",
+      "page": "https://www.telangana.gov.in/government/council-of-ministers/",
+      "bytes": 502695,
+      "mime": "image/png"
+    },
+    {
+      "name": "Sri Anumula Revanth Reddy, Chief Minister",
+      "file": "revanth-reddy.png",
+      "url": "https://www.telangana.gov.in/wp-content/uploads/2025/11/cm-telangana.png",
+      "page": "https://www.telangana.gov.in/government/council-of-ministers/",
+      "bytes": 50003,
+      "mime": "image/png"
+    },
+    {
+      "name": "Sri Duddilla Sridhar Babu, Minister for Information Technology, Electronics & Communications; Industries & Commerce and Legislative Affairs",
+      "file": "sridhar-babu.jpg",
+      "url": "https://www.telangana.gov.in/wp-content/uploads/2019/06/Sri-Duddilla-Sridhar-Babu.jpg",
+      "page": "https://www.telangana.gov.in/government/council-of-ministers/",
+      "bytes": 16926,
+      "mime": "image/jpeg"
+    },
+    {
+      "name": "Sri Manne Sateesh Kumar, Chairman, TGTS",
+      "file": "chairman-manne-sateesh-kumar.png",
+      "url": "https://www.tmoa.in/account/uploads/1749921080_CHAIRMAN.png",
+      "page": "https://www.tmoa.in/index.php",
+      "source_type": "Telangana Meeseva Operators Association (not government domain)",
+      "caption": "Chairman TGTSL \u2014 Sri Manne Satish Kumar",
+      "role_corroboration": "https://www.telangana.gov.in/departments/information-technology-electronics-and-communications/",
+      "bytes": 55006,
+      "mime": "image/png"
+    },
+    {
+      "name": "Government emblem used by IGRS",
+      "file": "igrs.png",
+      "url": "https://notary.igrs.telangana.gov.in/resources/img/telanganalogo.png",
+      "source_type": "government portal",
+      "bytes": 12336
+    },
+    {
+      "name": "Telangana Rising logo",
+      "file": "telangana-rising.png",
+      "url": "https://notary.igrs.telangana.gov.in/resources/img/telangana-rising.png",
+      "source_type": "government portal",
+      "bytes": 9581
+    },
+    {
+      "name": "TGTRANSCO logo",
+      "file": "transco.png",
+      "url": "https://portal.tgtransco.com/static/images/logo_left.png",
+      "source_type": "institutional portal",
+      "bytes": 85312
+    },
+    {
+      "name": "GHMC logo",
+      "file": "ghmc.png",
+      "url": "https://workmodule.ghmc.bloomsolutions.co.in/assets/cms/images/ghmc.png",
+      "source_type": "GHMC works monitoring portal",
+      "bytes": 180144
+    },
+    {
+      "name": "Telangana Police logo",
+      "file": "telangana-police.png",
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/01/Telangana_Police_Logo.png",
+      "source_type": "public reproduction",
+      "bytes": 75749
+    },
+    {
+      "name": "Hyderabad City Police logo",
+      "file": "hyderabad-police.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/5d/HyderabadPoliceLogo.jpg",
+      "source_type": "public reproduction",
+      "bytes": 58151
+    },
+    {
+      "name": "TS GENCO historic logo",
+      "file": "genco.png",
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/cb/TSGENCOlogo.png",
+      "source_type": "public reproduction",
+      "bytes": 189803
+    }
+  ]
+}
